@@ -1,0 +1,688 @@
+THTML5Application
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Info.plist HTML5Application/HTML5Application-Info.plist
+cPhaseScriptExecution "Copy www directory" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HTML5Application/config.xml build/HTML5Application.app/config.xml
+cCpResource HTML5Application/Resources/icons/icon-72.png build/HTML5Application.app/icon-72.png
+cCpResource HTML5Application/Resources/icons/icon.png build/HTML5Application.app/icon.png
+cCpResource HTML5Application/Resources/icons/icon@2x.png build/HTML5Application.app/icon@2x.png
+cCpResource HTML5Application/Resources/Capture.bundle build/HTML5Application.app/Capture.bundle
+cCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/en.lproj/Localizable.strings HTML5Application/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/es.lproj/Localizable.strings HTML5Application/Resources/es.lproj/Localizable.strings
+cCompileXIB /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib
+cCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/de.lproj/Localizable.strings HTML5Application/Resources/de.lproj/Localizable.strings
+cCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/se.lproj/Localizable.strings HTML5Application/Resources/se.lproj/Localizable.strings
+cCpResource HTML5Application/Resources/splash/Default-Landscape@2x~ipad.png build/HTML5Application.app/Default-Landscape@2x~ipad.png
+cCpResource HTML5Application/Resources/splash/Default-Landscape~ipad.png build/HTML5Application.app/Default-Landscape~ipad.png
+cCpResource HTML5Application/Resources/splash/Default-Portrait@2x~ipad.png build/HTML5Application.app/Default-Portrait@2x~ipad.png
+cCpResource HTML5Application/Resources/splash/Default-Portrait~ipad.png build/HTML5Application.app/Default-Portrait~ipad.png
+cCpResource HTML5Application/Resources/splash/Default@2x~iphone.png build/HTML5Application.app/Default@2x~iphone.png
+cCpResource HTML5Application/Resources/splash/Default-568h@2x~iphone.png build/HTML5Application.app/Default-568h@2x~iphone.png
+cCpResource HTML5Application/Resources/splash/Default~iphone.png build/HTML5Application.app/Default~iphone.png
+cCpResource HTML5Application/Resources/icons/icon-72@2x.png build/HTML5Application.app/icon-72@2x.png
+cProcessPCH /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth HTML5Application/HTML5Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000505780130000000000000110
+t1347911699
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000502F2D0500000000001EAF80
+t1345268997
+s2011008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000005038392B00000000000C0EB0
+t1345861931
+s790192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000502F33DD0000000000193600
+t1345270749
+s1652224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000502F35370000000000022590
+t1345271095
+s140688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000502F2C2500000000003D2B40
+t1345268773
+s4008768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000502F1F1D0000000000215D20
+t1345265437
+s2186528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000502F1EEB0000000000228F90
+t1345265387
+s2264976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000502F2C5F000000000009C1E0
+t1345268831
+s639456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000503715D800000000000855E0
+t1345787352
+s546272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000502F1F4500000000003DCEC0
+t1345265477
+s4050624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000502F1F2300000000002CFBB0
+t1345265443
+s2948016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000005035BFBE00000000002C6BE0
+t1345699774
+s2911200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000503323C900000000000BCB10
+t1345528777
+s772880
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c00000000502F2C5A0000000000030E80
+t1345268826
+s200320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000502F236600000000001D5770
+t1345266534
+s1922928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000502F1E76000000000006CC10
+t1345265270
+s445456
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000502F526A0000000000AB3D30
+t1345278570
+s11222320
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.h
+c000000005225547B00000000000005C5
+t1378178171
+s1477
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m
+c000000005225547B00000000000013E6
+t1378178171
+s5094
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.h
+c000000005225547B00000000000004D6
+t1378178171
+s1238
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m
+c000000005225547B0000000000001271
+t1378178171
+s4721
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib
+c000000005225547B0000000000001759
+t1378178171
+s5977
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/HTML5Application-Prefix.pch
+c000000005225547B00000000000003D1
+t1378178171
+s977
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/Capture.bundle
+c000000005225547C000000000000030E
+t1378178172
+s782
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/de.lproj/Localizable.strings
+c000000005225547C00000000000004BF
+t1378178172
+s1215
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/en.lproj/Localizable.strings
+c000000005225547C00000000000004AA
+t1378178172
+s1194
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/es.lproj/Localizable.strings
+c000000005225547C00000000000004B7
+t1378178172
+s1207
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon-72.png
+c000000005225547C0000000000001350
+t1378178172
+s4944
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon-72@2x.png
+c000000005225547C0000000000002DBA
+t1378178172
+s11706
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon.png
+c000000005225547C0000000000000F3E
+t1378178172
+s3902
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon@2x.png
+c000000005225547C0000000000001EBD
+t1378178172
+s7869
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/se.lproj/Localizable.strings
+c000000005225547C00000000000004AB
+t1378178172
+s1195
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-568h@2x~iphone.png
+c000000005225547C00000000000085B1
+t1378178172
+s34225
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005225547C0000000000012DF4
+t1378178172
+s77300
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Landscape~ipad.png
+c000000005225547C0000000000008877
+t1378178172
+s34935
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005225547C0000000000012B02
+t1378178172
+s76546
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Portrait~ipad.png
+c000000005225547C00000000000085E6
+t1378178172
+s34278
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default@2x~iphone.png
+c000000005225547C0000000000007323
+t1378178172
+s29475
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default~iphone.png
+c000000005225547C000000000000289A
+t1378178172
+s10394
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/config.xml
+c0000000052255ABD00000000000010DF
+t1378179773
+s4319
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m
+c000000005225547C0000000000000462
+t1378178172
+s1122
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app
+t1378179753
+s748
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app.dSYM
+t2
+s0
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Capture.bundle
+t1378178180
+s782
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-568h@2x~iphone.png
+t1378178180
+s34225
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Landscape@2x~ipad.png
+t1378178180
+s77300
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Landscape~ipad.png
+t1378178180
+s34935
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Portrait@2x~ipad.png
+t1378178180
+s76546
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Portrait~ipad.png
+t1378178180
+s34278
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default@2x~iphone.png
+t1378178180
+s29475
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default~iphone.png
+t1378178180
+s10394
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application
+t2
+s0
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Info.plist
+t1378179753
+s1074
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/MainViewController.nib
+t1378178182
+s822
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/PkgInfo
+t2
+s0
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/config.xml
+t1378179753
+s4319
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/de.lproj/Localizable.strings
+t1378178180
+s280
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/en.lproj/Localizable.strings
+t1378178180
+s166
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/es.lproj/Localizable.strings
+t1378178180
+s334
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon-72.png
+t1378178180
+s4944
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon-72@2x.png
+t1378178180
+s11706
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon.png
+t1378178180
+s3902
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon@2x.png
+t1378178180
+s7869
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/se.lproj/Localizable.strings
+t1378178180
+s283
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o
+t1378178183
+s95852
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/HTML5Application.LinkFileList
+c000000005225548400000000000001FB
+t1378178180
+s507
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o
+t1378178183
+s78080
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o
+t1378178183
+s3080
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh
+c0000000052255484000000000000051A
+t1378178180
+s1306
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVAvailability.h
+c000000005225547D0000000000000C47
+t1378178173
+s3143
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVCommandDelegate.h
+c000000005225547D00000000000008BA
+t1378178173
+s2234
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVCommandDelegateImpl.h
+c000000005225547D0000000000000473
+t1378178173
+s1139
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVCommandQueue.h
+c000000005225547D0000000000000501
+t1378178173
+s1281
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVInvokedUrlCommand.h
+c000000005225547D0000000000000906
+t1378178173
+s2310
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVPlugin.h
+c000000005225547D0000000000000892
+t1378178173
+s2194
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVPluginResult.h
+c000000005225547D0000000000000C13
+t1378178173
+s3091
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVScreenOrientationDelegate.h
+c000000005225547D0000000000000408
+t1378178173
+s1032
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVViewController.h
+c000000005225547D0000000000000B67
+t1378178173
+s2919
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVWhitelist.h
+c000000005225547D00000000000004B4
+t1378178173
+s1204
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005225547D00000000000003A0
+t1378178173
+s928
+
+N/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libHTML5Application.a
+c00000000522554840000000000346420
+t1378178180
+s3433504
+
+N/var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth
+t1378178183
+s4667300
+
+NHTML5Application/HTML5Application-Info.plist
+c0000000052255ABD000000000000096A
+t1378179773
+s2410
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies30625b3e92d5b741^e8145c3e92d5b741^---0#1#0#--18"Check dependencies36"49B11EED-B780-43B1-A07A-EAEEF5731FFD-
+
+CCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399870983.565609
+e399870983.714717
+r1
+xCompileC
+xbuild/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]
+o    self.viewController.useSplashScreen = YES;
+o                        ^
+o/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here
+o@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");
+o                                              ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m48fa90078cd5b741^40f6b6078cd5b741^-714"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m:80:25: warning: 'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property. [-Wdeprecated-declarations]    self.viewController.useSplashScreen = YES;                        ^/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include/Cordova/CDVViewController.h:46:47: note: 'useSplashScreen' declared here@property (nonatomic, readwrite, assign) BOOL useSplashScreen CDV_DEPRECATED(2.5, "Add/Remove the SplashScreen plugin instead of setting this property.");                                              ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@128"'useSplashScreen' is deprecated: Deprecated in Cordova 2.5. Add/Remove the SplashScreen plugin instead of setting this property.-399870983#18446744073709551615#0#1(2@31"'useSplashScreen' declared here-399870983#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/CordovaLib/Classes/CDVViewController.h0000000000000000^45#46#45#46#1826#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@113"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m0000000000000000^79#24#79#24#2701#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@113"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m0000000000000000^3909"CompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o HTML5Application/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-generated-files.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-own-target-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-all-target-headers.hmap -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-project-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/usr/local/lib/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/UninstalledProducts/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources/i386 -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources -F/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -include /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch -MMD -MT dependencies -MF /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.dia -c /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/AppDelegate.m -o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/AppDelegate.o36"78D1E6D5-24E7-4AC0-AEDC-68603B2CA279-
+
+CCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399870983.565630
+e399870983.695084
+r1
+xCompileC
+xbuild/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m01f790078cd5b741^c8efb1078cd5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m0000000000000000^3951"CompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o HTML5Application/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-generated-files.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-own-target-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-all-target-headers.hmap -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-project-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/usr/local/lib/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/UninstalledProducts/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources/i386 -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources -F/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -include /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch -MMD -MT dependencies -MF /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.dia -c /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.m -o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/MainViewController.o36"D3D64B01-4B44-46C6-BA44-DD3FC0BCA526-
+
+CCompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399870983.565655
+e399870983.612111
+r1
+xCompileC
+xbuild/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m23f390078cd5b741^fce09c078cd5b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m0000000000000000^3851"CompileC build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o HTML5Application/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-generated-files.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-own-target-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-all-target-headers.hmap -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-project-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/usr/local/lib/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/UninstalledProducts/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources/i386 -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources -F/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -include /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch -MMD -MT dependencies -MF /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.dia -c /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/main.m -o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/main.o36"B7E78DE3-722F-4566-B527-286533409686-
+
+CCompileXIB /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib
+s399870980.684357
+e399870983.018657
+r1
+xCompileXIB
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib
+o2013-09-03 06:16:22.380 Interface Builder Cocoa Touch Tool[27288:f07] CFPreferences: user home directory at file://localhost/Users/macbook/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xibb54faf048cd5b741^1d8f05078cd5b741^-240"2013-09-03 06:16:22.380 Interface Builder Cocoa Touch Tool[27288:f07] CFPreferences: user home directory at file://localhost/Users/macbook/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib0000000000000000^980"CompileXIB HTML5Application/Classes/MainViewController.xib    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/MainViewController.nib /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Classes/MainViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"3DD62935-2F5C-41FA-9663-ECF18B1DE643-
+
+CCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/de.lproj/Localizable.strings HTML5Application/Resources/de.lproj/Localizable.strings
+s399870980.685313
+e399870980.696444
+r1
+xCopyStringsFile
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/de.lproj/Localizable.strings
+xHTML5Application/Resources/de.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy HTML5Application/Resources/de.lproj/Localizable.stringsd4d7af048cd5b741^aad5b3048cd5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/de.lproj/Localizable.strings0000000000000000^633"CopyStringsFile build/HTML5Application.app/de.lproj/Localizable.strings HTML5Application/Resources/de.lproj/Localizable.strings    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/de.lproj -- HTML5Application/Resources/de.lproj/Localizable.strings36"5AA607AA-3020-41D4-B687-857172DEA225-
+
+CCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/en.lproj/Localizable.strings HTML5Application/Resources/en.lproj/Localizable.strings
+s399870980.679399
+e399870980.684039
+r1
+xCopyStringsFile
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/en.lproj/Localizable.strings
+xHTML5Application/Resources/en.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy HTML5Application/Resources/en.lproj/Localizable.strings3814ae048cd5b741^3926af048cd5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/en.lproj/Localizable.strings0000000000000000^633"CopyStringsFile build/HTML5Application.app/en.lproj/Localizable.strings HTML5Application/Resources/en.lproj/Localizable.strings    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/en.lproj -- HTML5Application/Resources/en.lproj/Localizable.strings36"3DFDB300-032D-404C-A3F4-72F312DDD1F4-
+
+CCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/es.lproj/Localizable.strings HTML5Application/Resources/es.lproj/Localizable.strings
+s399870980.682762
+e399870980.693987
+r1
+xCopyStringsFile
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/es.lproj/Localizable.strings
+xHTML5Application/Resources/es.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy HTML5Application/Resources/es.lproj/Localizable.strings75e6ae048cd5b741^09ddb1048cd5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/es.lproj/Localizable.strings0000000000000000^633"CopyStringsFile build/HTML5Application.app/es.lproj/Localizable.strings HTML5Application/Resources/es.lproj/Localizable.strings    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/es.lproj -- HTML5Application/Resources/es.lproj/Localizable.strings36"5B780B95-8765-4059-ACB9-36415F227199-
+
+CCopyStringsFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/se.lproj/Localizable.strings HTML5Application/Resources/se.lproj/Localizable.strings
+s399870980.696893
+e399870980.718140
+r1
+xCopyStringsFile
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/se.lproj/Localizable.strings
+xHTML5Application/Resources/se.lproj/Localizable.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy HTML5Application/Resources/se.lproj/Localizable.strings378cb2048cd5b741^1adbb7048cd5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/se.lproj/Localizable.strings0000000000000000^633"CopyStringsFile build/HTML5Application.app/se.lproj/Localizable.strings HTML5Application/Resources/se.lproj/Localizable.strings    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/se.lproj -- HTML5Application/Resources/se.lproj/Localizable.strings36"DF636AAC-4E40-426F-8113-67CB0035D228-
+
+CCpResource HTML5Application/Resources/Capture.bundle build/HTML5Application.app/Capture.bundle
+s399870980.679061
+e399870980.696163
+r1
+xCpResource
+xHTML5Application/Resources/Capture.bundle
+xbuild/HTML5Application.app/Capture.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/HTML5Application.app/Capture.bundle1d77ae048cd5b741^9cc5b3048cd5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Capture.bundle000000000080d041^781"CpResource HTML5Application/Resources/Capture.bundle build/HTML5Application.app/Capture.bundle    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/Capture.bundle /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"B936BDE7-3459-4FCC-98BE-212366364D32-
+
+CCpResource HTML5Application/Resources/icons/icon-72.png build/HTML5Application.app/icon-72.png
+s399870980.674798
+e399870980.678372
+r1
+xCpResource
+xHTML5Application/Resources/icons/icon-72.png
+xbuild/HTML5Application.app/icon-72.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/HTML5Application.app/icon-72.png6ff5ac048cd5b741^3db6ad048cd5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon-72.png000000000080d041^784"CpResource HTML5Application/Resources/icons/icon-72.png build/HTML5Application.app/icon-72.png    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon-72.png /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"1AE64390-CC89-422A-A063-9CEC73109EEC-
+
+CCpResource HTML5Application/Resources/icons/icon-72@2x.png build/HTML5Application.app/icon-72@2x.png
+s399870980.725668
+e399870980.731793
+r1
+xCpResource
+xHTML5Application/Resources/icons/icon-72@2x.png
+xbuild/HTML5Application.app/icon-72@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/HTML5Application.app/icon-72@2x.png2cf0b9048cd5b741^3d5fbb048cd5b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon-72@2x.png000000000080d041^799"CpResource "HTML5Application/Resources/icons/icon-72@2x.png" "build/HTML5Application.app/icon-72@2x.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon-72@2x.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"1C13FBFE-39B0-43CD-9999-224F0FA3A13B-
+
+CCpResource HTML5Application/Resources/icons/icon.png build/HTML5Application.app/icon.png
+s399870980.675380
+e399870980.680908
+r1
+xCpResource
+xHTML5Application/Resources/icons/icon.png
+xbuild/HTML5Application.app/icon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy build/HTML5Application.app/icon.png1809ad048cd5b741^4969ae048cd5b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon.png000000000080d041^775"CpResource HTML5Application/Resources/icons/icon.png build/HTML5Application.app/icon.png    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon.png /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"89CD9DFD-56DD-4DE9-A3F2-44CDECE6AE0F-
+
+CCpResource HTML5Application/Resources/icons/icon@2x.png build/HTML5Application.app/icon@2x.png
+s399870980.676071
+e399870980.683065
+r1
+xCpResource
+xHTML5Application/Resources/icons/icon@2x.png
+xbuild/HTML5Application.app/icon@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/HTML5Application.app/icon@2x.png7a34ad048cd5b741^7fdcae048cd5b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/icon@2x.png000000000080d041^790"CpResource "HTML5Application/Resources/icons/icon@2x.png" "build/HTML5Application.app/icon@2x.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/icons/icon@2x.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"05518EA2-2404-489D-8478-0A9E29862193-
+
+CCpResource HTML5Application/Resources/splash/Default-568h@2x~iphone.png build/HTML5Application.app/Default-568h@2x~iphone.png
+s399870980.724698
+e399870980.729077
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default-568h@2x~iphone.png
+xbuild/HTML5Application.app/Default-568h@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/HTML5Application.app/Default-568h@2x~iphone.pngf59fb9048cd5b741^73a1ba048cd5b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-568h@2x~iphone.png000000000080d041^837"CpResource "HTML5Application/Resources/splash/Default-568h@2x~iphone.png" "build/HTML5Application.app/Default-568h@2x~iphone.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-568h@2x~iphone.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"D105442F-705A-4B63-9113-030A33EB667D-
+
+CCpResource HTML5Application/Resources/splash/Default-Landscape@2x~ipad.png build/HTML5Application.app/Default-Landscape@2x~ipad.png
+s399870980.697716
+e399870980.712854
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/HTML5Application.app/Default-Landscape@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/HTML5Application.app/Default-Landscape@2x~ipad.png4f95b3048cd5b741^d8d7b6048cd5b741^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Landscape@2x~ipad.png000000000080d041^846"CpResource "HTML5Application/Resources/splash/Default-Landscape@2x~ipad.png" "build/HTML5Application.app/Default-Landscape@2x~ipad.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Landscape@2x~ipad.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"F24783AA-F658-4F86-883C-C462053E0EA6-
+
+CCpResource HTML5Application/Resources/splash/Default-Landscape~ipad.png build/HTML5Application.app/Default-Landscape~ipad.png
+s399870980.697956
+e399870980.708206
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default-Landscape~ipad.png
+xbuild/HTML5Application.app/Default-Landscape~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/HTML5Application.app/Default-Landscape~ipad.png7a8bb3048cd5b741^9cbfb5048cd5b741^---0#0#0#-19%DVTDocumentLocation2@128"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Landscape~ipad.png000000000080d041^837"CpResource "HTML5Application/Resources/splash/Default-Landscape~ipad.png" "build/HTML5Application.app/Default-Landscape~ipad.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Landscape~ipad.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"D00B2DE8-87D3-4879-A1A0-FDFB802EF46B-
+
+CCpResource HTML5Application/Resources/splash/Default-Portrait@2x~ipad.png build/HTML5Application.app/Default-Portrait@2x~ipad.png
+s399870980.714407
+e399870980.721430
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/HTML5Application.app/Default-Portrait@2x~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/HTML5Application.app/Default-Portrait@2x~ipad.png7409b7048cd5b741^68b1b8048cd5b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Portrait@2x~ipad.png000000000080d041^843"CpResource "HTML5Application/Resources/splash/Default-Portrait@2x~ipad.png" "build/HTML5Application.app/Default-Portrait@2x~ipad.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Portrait@2x~ipad.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"335AC975-D7C0-4493-994F-03426C8B4CF6-
+
+CCpResource HTML5Application/Resources/splash/Default-Portrait~ipad.png build/HTML5Application.app/Default-Portrait~ipad.png
+s399870980.714664
+e399870980.721766
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default-Portrait~ipad.png
+xbuild/HTML5Application.app/Default-Portrait~ipad.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/HTML5Application.app/Default-Portrait~ipad.png8810b7048cd5b741^bfd3b8048cd5b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default-Portrait~ipad.png000000000080d041^834"CpResource "HTML5Application/Resources/splash/Default-Portrait~ipad.png" "build/HTML5Application.app/Default-Portrait~ipad.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default-Portrait~ipad.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"6002DE11-33F7-439F-98D8-8941B946FD2F-
+
+CCpResource HTML5Application/Resources/splash/Default@2x~iphone.png build/HTML5Application.app/Default@2x~iphone.png
+s399870980.719460
+e399870980.723220
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default@2x~iphone.png
+xbuild/HTML5Application.app/Default@2x~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/HTML5Application.app/Default@2x~iphone.png554db8048cd5b741^ff06b9048cd5b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default@2x~iphone.png000000000080d041^822"CpResource "HTML5Application/Resources/splash/Default@2x~iphone.png" "build/HTML5Application.app/Default@2x~iphone.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default@2x~iphone.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"9292B6D3-D7C3-4DCC-864C-A3AC865EA893-
+
+CCpResource HTML5Application/Resources/splash/Default~iphone.png build/HTML5Application.app/Default~iphone.png
+s399870980.722747
+e399870980.727493
+r1
+xCpResource
+xHTML5Application/Resources/splash/Default~iphone.png
+xbuild/HTML5Application.app/Default~iphone.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy build/HTML5Application.app/Default~iphone.png467ab9048cd5b741^8847ba048cd5b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Default~iphone.png000000000080d041^813"CpResource "HTML5Application/Resources/splash/Default~iphone.png" "build/HTML5Application.app/Default~iphone.png"    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/Resources/splash/Default~iphone.png" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"62EC70C0-ADAC-4D1B-B7D2-5A177D611F6E-
+
+CCpResource HTML5Application/config.xml build/HTML5Application.app/config.xml
+s399872574.600357
+e399872574.604583
+r1
+xCpResource
+xHTML5Application/config.xml
+xbuild/HTML5Application.app/config.xml
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy build/HTML5Application.app/config.xml75e7993e92d5b741^86c79a3e92d5b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/config.xml0000000000000000^749"CpResource HTML5Application/config.xml build/HTML5Application.app/config.xml    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/config.xml /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app36"BA919136-4F17-471E-9D39-46A669A34BE1-
+
+CGenerateDSYMFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app.dSYM /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application
+r0
+
+CLd /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application normal i386
+s399872574.628920
+e399872574.644769
+r0
+xLd
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application
+xnormal
+xi386
+old: file not found: /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libCordova.a
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Link /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application0c3aa13e92d5b741^4e0ca53e92d5b741^-178"ld: file not found: /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libCordova.aclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@93"File not found: /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libCordova.a-399872574#0#98#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-399872574#98#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1887"Ld build/HTML5Application.app/HTML5Application normal i386    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -F/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -filelist /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/HTML5Application.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libCordova.a -ObjC -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework CoreLocation -framework ImageIO -framework OpenAL -framework AssetsLibrary /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libHTML5Application.a -framework Foundation -weak_framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -weak_framework AVFoundation -framework CFNetwork -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -weak_framework CoreMedia -framework CoreLocation -o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/HTML5Application36"C3235D3B-716F-479A-BDE7-7086FDDF1FEB-
+
+CPhaseScriptExecution "Copy www directory" /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh
+s399872574.389233
+e399872574.579835
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.142s
+ouser	0m0.035s
+osys	0m0.051s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'3e04653e92d5b741^2cb9963e92d5b741^-42"real	0m0.142suser	0m0.035ssys	0m0.051s3(21%IDEActivityLogMessage2@14"real	0m0.142s-399872574#1#14#-0#-----2@14"user	0m0.035s-399872574#15#14#-0#-----2@13"sys	0m0.051s-399872574#29#13#-0#-----0#0#0#--21949"PhaseScriptExecution "Copy www directory" build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER macbook    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVAILABLE_PLATFORMS "iphonesimulator macosx iphoneos"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv BUILD_ROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv BUILD_STYLE     setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv CACHE_ROOT /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501    setenv CCHROOT /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLANG_ENABLE_OBJC_ARC NO    setenv CLANG_WARN_CONSTANT_CONVERSION YES    setenv CLANG_WARN_ENUM_CONVERSION YES    setenv CLANG_WARN_INT_CONVERSION YES    setenv CLANG_WARN__DUPLICATE_METHOD_MATCH YES    setenv CLASS_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv CONFIGURATION_TEMP_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator    setenv CONTENTS_FOLDER_PATH HTML5Application.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CORDOVALIB /Users/macbook/Documents/CordovaLib    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEFAULT_COMPILER com.apple.compilers.llvm.clang.1_0    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Applications/Xcode.app/Contents/Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Applications/Xcode.app/Contents/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/Developer/Library    setenv DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Tools    setenv DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH HTML5Application.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/HTML5Application.dst    setenv DT_TOOLCHAIN_DIR /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    setenv DWARF_DSYM_FILE_NAME HTML5Application.app.dSYM    setenv DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT NO    setenv DWARF_DSYM_FOLDER_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".DS_Store .svn .git .hg CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH HTML5Application.app/Executables    setenv EXECUTABLE_FOLDER_PATH HTML5Application.app    setenv EXECUTABLE_NAME HTML5Application    setenv EXECUTABLE_PATH HTML5Application.app/HTML5Application    setenv FILE_LIST /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH HTML5Application.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME HTML5Application.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER HTML5Application/HTML5Application-Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvm.clang.1_0    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvm_clang_1_0    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include\" \"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/usr/local/lib/include\" \"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/UninstalledProducts/include\" \"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build\""    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE HTML5Application/HTML5Application-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH HTML5Application.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH HTML5Application.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/HTML5Application.dst/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER macbook    setenv INSTALL_PATH /Applications    setenv INSTALL_ROOT /tmp/HTML5Application.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH HTML5Application.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-LinkMap-normal-i386.txt    setenv LD_NO_PIE NO    setenv LEGACY_DEVELOPER_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    setenv LEX lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal/i386/HTML5Application.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH HTML5Application.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 12E55    setenv MAC_OS_X_VERSION_ACTUAL 1084    setenv MAC_OS_X_VERSION_MAJOR 1080    setenv MAC_OS_X_VERSION_MINOR 0804    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Objects-normal    setenv OBJROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/libCordova.a -ObjC"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH HTML5Application.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/PkgInfo    setenv PKGINFO_PATH HTML5Application.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PREFERRED_ARCH i386    setenv PLATFORM_PRODUCT_BUILD_VERSION 10B141    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 60000    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH HTML5Application.app/PlugIns    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH HTML5Application.app/PrivateHeaders    setenv PRODUCT_NAME HTML5Application    setenv PRODUCT_SETTINGS_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/HTML5Application-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT HTML5Application    setenv PROJECT_DERIVED_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/DerivedSources    setenv PROJECT_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PROJECT_FILE_PATH /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application.xcodeproj    setenv PROJECT_NAME HTML5Application    setenv PROJECT_TEMP_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build    setenv PROJECT_TEMP_ROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv PUBLIC_HEADERS_FOLDER_PATH HTML5Application.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_HG_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH HTML5Application.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_DIR /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk    setenv SDK_NAME iphonesimulator6.0    setenv SDK_PRODUCT_BUILD_VERSION 10A403    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH HTML5Application.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH HTML5Application.app/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv SRCROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SUPPORTED_PLATFORMS "iphonesimulator iphoneos"    setenv SYMROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Applications/Xcode.app/Contents/Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Applications/Xcode.app/Contents/Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Applications/Xcode.app/Contents/Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Applications/Xcode.app/Contents/Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Applications/Xcode.app/Contents/Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Applications/Xcode.app/Contents/Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME HTML5Application    setenv TARGET_BUILD_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv TARGET_NAME HTML5Application    setenv TARGET_TEMP_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build    setenv TEMP_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build    setenv TEMP_FILES_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build    setenv TEMP_FILE_DIR /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build    setenv TEMP_ROOT /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build    setenv TEST_AFTER_BUILD NO    setenv TOOLCHAINS com.apple.dt.toolchain.XcodeDefault    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH HTML5Application.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER macbook    setenv USER_APPS_DIR /Users/macbook/Applications    setenv USER_LIBRARY_DIR /Users/macbook/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH HTML5Application.app/version.plist    setenv VERSION_INFO_BUILDER macbook    setenv VERSION_INFO_FILE HTML5Application_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:HTML5Application  PROJECT:HTML5Application-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME HTML5Application.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Applications/Xcode.app/Contents/Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 4H1503    setenv XCODE_VERSION_ACTUAL 0463    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0460    setenv YACC yacc    /bin/sh -c /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/Script-304B58A110DAC018002A0835.sh36"ECA5C9D3-18A4-4951-941B-F0257292BFE4-
+
+CProcessInfoPlistFile /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Info.plist HTML5Application/HTML5Application-Info.plist
+s399872574.372129
+e399872574.378715
+r1
+xProcessInfoPlistFile
+x/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Info.plist
+xHTML5Application/HTML5Application-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Process HTML5Application/HTML5Application-Info.plisteb8c5f3e92d5b741^b6f8603e92d5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/HTML5Application-Info.plist0000000000000000^707"ProcessInfoPlistFile build/HTML5Application.app/Info.plist HTML5Application/HTML5Application-Info.plist    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HTML5Application/HTML5Application-Info.plist -genpkginfo /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app/Info.plist36"857FA392-D374-4892-A855-BC0B48202745-
+
+CProcessPCH /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth HTML5Application/HTML5Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399870983.031730
+e399870983.558511
+r1
+xProcessPCH
+x/var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth
+xHTML5Application/HTML5Application-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile HTML5Application/HTML5Application-Prefix.pch2b4f08078cd5b741^40fa8e078cd5b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/HTML5Application-Prefix.pch0000000000000000^3841"ProcessPCH /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth HTML5Application/HTML5Application-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/macbook/NetBeansProjects/HTML5Application/build/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-generated-files.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-own-target-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-all-target-headers.hmap -iquote /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/HTML5Application-project-headers.hmap -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/usr/local/lib/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/UninstalledProducts/include -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources/i386 -I/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.build/Release-iphonesimulator/HTML5Application.build/DerivedSources -F/Users/macbook/NetBeansProjects/HTML5Application/build/ios/build --serialize-diagnostics /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.dia -c /Users/macbook/NetBeansProjects/HTML5Application/build/ios/HTML5Application/HTML5Application-Prefix.pch -o /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/6w/5knqf25x5dvdfs8ld0xfx0wr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/HTML5Application-Prefix-btbiznqggzbhdmacsvaelzctapix/HTML5Application-Prefix.pch.d36"790C1668-C0EF-460D-9C2A-B9ABC8C98118-
+
+CTouch /Users/macbook/NetBeansProjects/HTML5Application/build/ios/build/HTML5Application.app
+r0
+
